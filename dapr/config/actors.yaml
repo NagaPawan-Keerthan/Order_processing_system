@@ -1,0 +1,7 @@
+actors:
+- type: "InventoryActor"
+  actorType: "InventoryActor"
+  entity: "inventory"
+- type: "NotificationActor"
+  actorType: "NotificationActor"
+  entity: "notification"
